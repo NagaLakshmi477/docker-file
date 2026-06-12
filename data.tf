@@ -1,4 +1,4 @@
-data "aws_ami" "joindevops" {
+data "aws_ami" "nagalakshmi" {
   most_recent      = true
 
   filter {
