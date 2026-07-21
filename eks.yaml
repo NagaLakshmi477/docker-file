@@ -6,7 +6,7 @@ metadata:
   region: us-east-1
 
 managedNodeGroups:
-  - name: roboshop
+  - name: roboshop-ng
     instanceTypes:
       - t3.medium
     desiredCapacity: 3
