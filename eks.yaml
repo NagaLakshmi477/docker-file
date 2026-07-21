@@ -8,5 +8,5 @@ metadata:
 managedNodeGroups:
   - name: roboshop-ng
     instanceTypes:
-      - t3.medium
+      - t3.micro
     desiredCapacity: 3
